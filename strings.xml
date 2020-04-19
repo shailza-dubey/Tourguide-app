@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Delhi Darshan</string>
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Category name for events [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- Category name for the eat outs [CHAR LIMIT=20] -->
+    <string name="category_eatouts">Eat Outs</string>
+
+    <!-- Category name for the hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+    <string name="attract_1">The Red Fort</string>
+    <string name="attract_2">Qutub Minar</string>
+    <string name="attract_3">Gurudwara Bangla Sahib</string>
+    <string name="attract_4">India Gate</string>
+    <string name="attract_5">Jama Masjid</string>
+    <string name="attract_6">Humayun\'s Tomb</string>
+    <string name="attract_7">Akshardham</string>
+    <string name="attract_8">Rajpath and Rashtrapati Bhawan</string>
+    <string name="attract_9">The Jantar Mantar Observatory</string>
+
+    <string name="att_add_1">Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="att_add_2">Mehrauli, New Delhi, Delhi 110030</string>
+    <string name="att_add_3">Ashoka Road, Hanuman Road Area, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="att_add_4">Rajpath, India Gate, New Delhi, Delhi 110001</string>
+    <string name="att_add_5">Chandni Chowk, New Delhi, Delhi</string>
+    <string name="att_add_6">Mathura Road, Nizamuddin, New Delhi, Delhi 110001</string>
+    <string name="att_add_7">Noida Mor, New Delhi, Delhi 110092</string>
+    <string name="att_add_8">Gates 30 and 35, President\'s Estate, New Delhi, Delhi 110004</string>
+    <string name="att_add_9">Sansad Marg, Connaught Place, New Delhi, Delhi 110001</string>
+
+    <string name="event_1">The Grub Fest</string>
+    <string name="event_2">Asian Hawkers Market</string>
+    <string name="event_3">Great Indian Food Festival</string>
+    <string name="event_4">New Delhi World Book Fair</string>
+    <string name="event_5">Qutub Festival</string>
+    <string name="event_6">Comic Con Delhi</string>
+    <string name="event_7">Delhi International Jazz Festival</string>
+    <string name="event_8">Horn-Ok-Please Street Food Festival</string>
+    <string name="event_9">Dastkar Asia Bazaar</string>
+
+    <string name="eve_add_1">JLN Stadium, New Delhi</string>
+    <string name="eve_add_2">Select CityWalk, Saket, New Delhi</string>
+    <string name="eve_add_3">Dilli Haat, Pitampura, New Delhi</string>
+    <string name="eve_add_4">Pragati Maidan, New Delhi</string>
+    <string name="eve_add_5">Qutub Complex, Mehrauli, Delhi</string>
+    <string name="eve_add_6">The venue for Comic Con usually changes every year.</string>
+    <string name="eve_add_7">Nehru Park, Chanakyapuri, Delhi</string>
+    <string name="eve_add_8">JLN Stadium, New Delhi</string>
+    <string name="eve_add_9">Andheria Modh, New Delhi</string>
+
+    <string name="eat_1">Indian Accent</string>
+    <string name="eat_2">Guppy</string>
+    <string name="eat_3">Town Hall</string>
+    <string name="eat_4">Shang Palace</string>
+    <string name="eat_5">Thyme</string>
+    <string name="eat_6">Gulati</string>
+    <string name="eat_7">Eau de Monsoon</string>
+    <string name="eat_8">Punjabi By Nature</string>
+    <string name="eat_9">Diva - The Italian Restaurant</string>
+    <string name="eat_10">Ama Cafe</string>
+
+    <string name="eat_add_1">Lodhi Rd, Pragati Vihar, New Delhi</string>
+    <string name="eat_add_2">Lodhi Colony, New Delhi</string>
+    <string name="eat_add_3">Khan Market, New Delhi</string>
+    <string name="eat_add_4">Connaught Place, New Delhi</string>
+    <string name="eat_add_5">Samalkha, Kapashera, Delhi</string>
+    <string name="eat_add_6">Pandara Road, Near India Gate, New Delhi</string>
+    <string name="eat_add_7">Connaught Place, New Delhi</string>
+    <string name="eat_add_8">Vasant Kunj, New Delhi</string>
+    <string name="eat_add_9">Greater Kailash 2, New Delhi</string>
+    <string name="eat_add_10">Majnu Ka Tila, East Delhi</string>
+
+    <string name="hotel_1">The Grand</string>
+    <string name="hotel_2">Novotel New Delhi Aerocity</string>
+    <string name="hotel_3">Vivanta by Taj Ambassador</string>
+    <string name="hotel_4">Taj Palace</string>
+    <string name="hotel_5">The Lalit</string>
+    <string name="hotel_6">The Hyatt Regency</string>
+    <string name="hotel_7">ITC Maurya</string>
+    <string name="hotel_8">The Lodhi</string>
+    <string name="hotel_9">The Leela Palace</string>
+    <string name="hotel_10">JW Marriot Hotel</string>
+
+    <string name="hot_add_1">Nelson Mandela Marg, Pocket 4, Vasant Kunj, New Delhi</string>
+    <string name="hot_add_2">IGI Airport New Delhi, Delhi 110037</string>
+    <string name="hot_add_3">Sujan Singh Park, Subramaniam Bharti Marg, New Delhi, Delhi 110003</string>
+    <string name="hot_add_4">B Colony, Chanakyapuri, New Delhi, Delhi 110021</string>
+    <string name="hot_add_5">Fire Brigade Ln, Barakhamba, New Delhi, Delhi 110001</string>
+    <string name="hot_add_6">Bhikaji Cama Place Ring Road, Delhi 110066</string>
+    <string name="hot_add_7">Sardar Patel Marg, Akhaura Block, Diplomatic Enclave, Chanakyapuri, New Delhi, Delhi 110021</string>
+    <string name="hot_add_8">Lodhi Rd, CGO Complex, Pragati Vihar, New Delhi, Delhi 110003</string>
+    <string name="hot_add_9">Africa Ave, Diplomatic Enclave, Chanakyapuri, New Delhi, Delhi 110023</string>
+    <string name="hot_add_10">Asset Area 4 - Hospitality District Delhi, Aerocity, New Delhi, Delhi 110037</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

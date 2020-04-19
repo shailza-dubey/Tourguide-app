@@ -1,0 +1,22 @@
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#64B5F6</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#1565C0</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the attractions category -->
+    <color name="category_attractions">#EEEEEE</color>
+
+    <!-- Background color for the events category -->
+    <color name="category_events">#EEEEEE</color>
+
+    <!-- Background color for the eatouts category -->
+    <color name="category_eatouts">#EEEEEE</color>
+
+    <!-- Background color for the hotels category -->
+    <color name="category_hotels">#EEEEEE</color>
+</resources>
